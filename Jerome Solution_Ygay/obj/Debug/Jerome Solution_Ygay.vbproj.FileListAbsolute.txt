@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Jerome Solution_Ygay\Jerome Solution_Ygay\bin\Debug\Jerome Solution_Ygay.exe.config
+C:\Users\User\source\repos\Jerome Solution_Ygay\Jerome Solution_Ygay\bin\Debug\Jerome Solution_Ygay.exe
+C:\Users\User\source\repos\Jerome Solution_Ygay\Jerome Solution_Ygay\bin\Debug\Jerome Solution_Ygay.pdb
+C:\Users\User\source\repos\Jerome Solution_Ygay\Jerome Solution_Ygay\bin\Debug\Jerome Solution_Ygay.xml
+C:\Users\User\source\repos\Jerome Solution_Ygay\Jerome Solution_Ygay\obj\Debug\Jerome Solution_Ygay.vbprojAssemblyReference.cache
+C:\Users\User\source\repos\Jerome Solution_Ygay\Jerome Solution_Ygay\obj\Debug\Jerome_Solution_Ygay.frmMain.resources
+C:\Users\User\source\repos\Jerome Solution_Ygay\Jerome Solution_Ygay\obj\Debug\Jerome_Solution_Ygay.Resources.resources
+C:\Users\User\source\repos\Jerome Solution_Ygay\Jerome Solution_Ygay\obj\Debug\Jerome Solution_Ygay.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\Jerome Solution_Ygay\Jerome Solution_Ygay\obj\Debug\Jerome Solution_Ygay.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Jerome Solution_Ygay\Jerome Solution_Ygay\obj\Debug\Jerome Solution_Ygay.exe
+C:\Users\User\source\repos\Jerome Solution_Ygay\Jerome Solution_Ygay\obj\Debug\Jerome Solution_Ygay.xml
+C:\Users\User\source\repos\Jerome Solution_Ygay\Jerome Solution_Ygay\obj\Debug\Jerome Solution_Ygay.pdb
